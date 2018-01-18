@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/mpeterv/argparse.png?branch=master)](https://travis-ci.org/mpeterv/argparse)
 [![Coverage Status](https://coveralls.io/repos/mpeterv/argparse/badge.svg?branch=master&service=github)](https://coveralls.io/github/mpeterv/argparse?branch=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fargparse.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fargparse?ref=badge_shield)
 
 Argparse is a feature-rich command line parser for Lua inspired by argparse for Python.
 
@@ -121,3 +122,6 @@ argparse comes with a testing suite located in `spec` directory. [busted](http:/
 ## License
 
 argparse is licensed under the same terms as Lua itself (MIT license).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fargparse.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fargparse?ref=badge_large)
